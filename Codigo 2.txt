@@ -1,0 +1,17 @@
+comienzo {
+
+# edad 20
+
+@ nombre << Juan >>
+
+si (edad >= 18) entonces {
+
+    escribir "Bienvenido, " + nombre + "."
+
+} sino {
+
+    escribir "Eres menor de edad, " + nombre + "."
+    
+}
+
+?

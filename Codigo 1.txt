@@ -1,0 +1,13 @@
+inicio {
+
+# numero 4
+
+@ cadena << hola Ivan >>
+
+si ( numero == 4 ) hacer {
+
+escribir cadena |
+
+?
+
+};
